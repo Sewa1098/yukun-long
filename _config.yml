@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Yukun Long"
 title_separator          : "-"
 name                     : &name "Yukun Long"
-description              : &description "Personal portfolio website of Yukun Long, a Computer Science student interested in game design, XR, cybersecurity, and creative technology."
+description              : &description "Portfolio of Yukun Long, a Computer Science student at UNSW and exchange student at HKUST, focusing on game design, interactive experiences, and technical projects."
 url                      : "https://Sewa1098.github.io"
 baseurl                  : ""
 repository               : "Sewa1098/Sewa1098.github.io"
@@ -14,9 +14,9 @@ author:
   avatar           : "profile.png"
   name             : "Yukun Long"
   pronouns         : "He/him"
-  bio              : "Computer Science student passionate about game design, XR interaction, cybersecurity, and creative digital experiences."
-  location         : "Sydney, Australia"
-  employer         :
+  bio : "Computer Science student at UNSW and exchange student at HKUST, exploring the intersection of technical development, game design, and interactive media."
+  location         : "Sydney / Guangzhou"
+  employer         : "University of New South Wales"
   uri              :
   email            : "bryanlong1098@gmail.com"
 
